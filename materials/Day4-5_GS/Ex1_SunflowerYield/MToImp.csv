@@ -1,0 +1,7 @@
+marker 1;marker 2;marker 3;marker 4;marker 5;marker 6;marker 7;marker 8;marker 9;marker 10
+ 1; 1; 0;-1; 1;-1;NA; 0; 0;NA
+-1; 0;NA;-1; 1;NA;-1;NA;-1; 0
+ 0;NA; 1;-1; 1;NA; 0; 1;NA;NA
+-1; 1; 1;NA;NA; 0; 1;NA;NA; 1
+ 0;-1;NA;NA; 0;-1; 0;-1;-1; 1
+ 1;-1; 0; 0;NA;NA; 0;-1;NA; 1

@@ -1,0 +1,58 @@
+
+###############################################################################################
+###         First session of International Theoretical & Practical Hands-on Course on       ###
+###          "Using whole-genome data in plant breeding: GWAS and Genomic Selection         ### 
+###           to genetically characterize key traits in large germplasm collections"        ###
+###                         23-27 July, 2018, VIR, St Petersburg, Russia                    ###
+###                                       ----------                                        ###
+###            Day 3/4:  GWAS, using TASSEL                                                 ###   
+###                                          ----                                           ###
+###                    R Script edited by Pr Laurent Gentzbittel, INP-ENSAT                 ###
+###############################################################################################
+
+### read Tassel5PipelineCLI.pdf !
+### read Tassel5PipelineCLI.pdf !
+### read Tassel5PipelineCLI.pdf !
+
+### MANDATORY!!! You will need to edit and modify the run-pipeline.bat program of TASSEL. On line 20, you must specify the path to the directory where TASSEL was installed.
+set TOP = "C: \<Path-To-sTASSEL.jar-executable>"
+
+# This is an example script for the GLM analysis of AphanoRRI for chromosome3, using AdmixtureK8 population structure
+# a script is made of several 'fork'. -fork<id> flag identifies the start of a pipeline segment that should be executed sequentially.
+# forks are identified, <id> can be numbers or characters (no spaces).
+
+## the first fork loads and filters the genotypes
+# -forkGenotypes -h 240K_chr3.hmp.TASSEL.txt   ## -h loads hapmap file (.hmp.txt or .hmp.txt.gz)
+# -filterAlign  ## Filters an alignment by sites.
+# -filterAlignMinCount 80 -filterAlignMinFreq 0.05
+
+## the second fork loads the phenotypes
+# -forkPhenotypes -r  AphanoRRI_prTassel.csv  ## -r loads a phenotype table
+
+## the third fork loads the population structure
+# -forkPopStruct -q MtrPopStruct_Admixture_K8.csv ## -q loads population structure file as numerical data.
+
+## we then combine and intersect, in a -combine  pipeline segment:
+# -combineMakeData -inputGenotypes -inputPhenotypes -inputPopStruct -intersect
+# in this -combine pipeline segment, -input specifies a pipeline segment as input to the plugin prior to this flag. In this case -combine. That plugin must
+
+## then the analysis with output of all data :
+## -FixedEffectLMPlugin -saveToFile true -siteFile GLM-AphanoRRI_Stats.txt -alleleFile GLM-AphanoRRI_alleleEffects.txt -endPlugin 
+
+## to see all the options of FixedEffectLMPlugin, execute run_pipeline.pl -FixedEffectLMPlugin
+
+
+C:\<Path-To-sTASSEL.jar-executable>\run_pipeline.bat -forkGenotypes -h 240K_chr3.hmp.TASSEL.txt -filterAlign -filterAlignMinCount 80 -filterAlignMinFreq 0.05 -forkPhenotypes -r AphanoRRI_prTassel.csv  -forkPopStruct -q MtrPopStruct_Admixture_K8.csv  -combineMakeData -inputGenotypes -inputPhenotypes -inputPopStruct -intersect  -FixedEffectLMPlugin -saveToFile true -siteFile GLM_Aphano-KR3_Stats.txt -alleleFile GLM_Aphano-KR3_Effects.txt -endPlugin
+
+
+#
+# this is an example script for an CMLM analysis of AphanoRRI, for chromosome 3
+## the forks are similar to load and process the SNPs, to load phenotypes and population structure and intersecting.
+## we add a fork to load the kinship:
+## -forkKinship -k KinshipMatrix_V4SelectedSNPs-840K.csv  ## -k loads kinship matrix
+## we add a combine segment to combine the fixed part of the model (pheno, geno and popstruct) with the random part (supported by the kinship)
+## -combineWithKinship -inputMakeData -inputKinship
+## then do the full CMLM analysis with P3D
+# -mlm -mlmVarCompEst P3D -mlmCompressionLevel Optimim -mlmOutputFile ./Merdoku
+
+C:\<Path-To-sTASSEL.jar-executable>\run_pipeline.bat -forkGenotypes -h 240K_chr3.hmp.TASSEL.txt -filterAlign -filterAlignMinCount 80 -filterAlignMinFreq 0.05 -forkPhenotypes -r AphanoRRI_prTassel.csv  -forkPopStruct -q MtrPopStruct_Admixture_K8.csv -forkKinship -k KinshipMatrix_V4SelectedSNPs-840K.csv -combineMakeData -inputGenotypes -inputPhenotypes -inputPopStruct -intersect  -combineWithKinship -inputMakeData -inputKinship -mlm -mlmVarCompEst P3D -mlmCompressionLevel Optimum -mlmOutputFile ./CMLM_Aphano-KR3

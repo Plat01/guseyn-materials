@@ -1,0 +1,529 @@
+{
+  "source": "https://drive.google.com/drive/folders/1Ytlu-swTepLYdPR6uwBpQXikUpM2GflN",
+  "date": "2026-11-11",
+  "files": [
+    {
+      "path": "/Day1_ExpDesign_RCBD_AugmentedBlocks/Day1-PracticeOutline.pdf",
+      "id": "1iVl5Nhr7AOb9HpxkGiH16dKeiV8mU55k",
+      "folder": false,
+      "bytes": 158392,
+      "sha256": "f37f6209dac7f26b101b684161553f8a901a34cd3e655c68a77e745fa5c7c6e8",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day1_ExpDesign_RCBD_AugmentedBlocks/Rsystem.pdf",
+      "id": "19leN3fBQHMIS-fp75-tdJ5Qnia9xLV-L",
+      "folder": false,
+      "bytes": 1986621,
+      "sha256": "cd665aa3e85fdb395de77537e34eb8edabda743530954cc1f52b927c49e55ba8",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day3-4_GWAS/240K_chr3.hmp.TASSEL.txt",
+      "id": "1qxlmgjMlH9v4L9noGH8pcnhkQvL_kFVt",
+      "folder": false,
+      "bytes": 16997508,
+      "sha256": "70d97a6bef344895c18fc824c552306e32ad6ff488ecbd40c39d8e15a1b36437",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day3-4_GWAS/240K_chr7.hmp.TASSEL.txt",
+      "id": "1YTQKMNTJgz5nS0cl6aDcOr1LIcV-8cms",
+      "folder": false,
+      "bytes": 17178118,
+      "sha256": "c6e34778311e7a906eade41dd9e6b34f2adfa612cb45efda78aea26e1548d183",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day3-4_GWAS/AphanoRRI_prTassel.csv",
+      "id": "14QuFgg_zqaJILJu4m7lHY-XIuzpjRh6L",
+      "folder": false,
+      "bytes": 3918,
+      "sha256": "ee2adde41835d2633de75e819850cfe4d1fd611f0bb3a09a44bc7de6682c942c",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day3-4_GWAS/Dias_GenetdAssoc_CrIntl_2018-Russia.pdf",
+      "id": "1SAGXsdjzHQlrjHKV036FhjVhVFKdySDz",
+      "folder": false,
+      "bytes": 13724272,
+      "sha256": "bfe4d02cdafb1adaca67b51837ac588dbc7c4fbb9d3a9953f9c7ee9305d2f956",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day3-4_GWAS/KinshipMatrix_Identity.txt",
+      "id": "1gB0HFRvgngtzNLIawzThiHqP9oEb7-gf",
+      "folder": false,
+      "bytes": 138866,
+      "sha256": "b2e338fef45221a32a4ee738a73d4291ab76122831b911cfb30bf5b3bb7d3c80",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day3-4_GWAS/KinshipMatrix_V4SelectedSNPs-40K.txt",
+      "id": "1xCME5i4o8R47nuug0cA-Wwl3oGu7_dcQ",
+      "folder": false,
+      "bytes": 1321713,
+      "sha256": "15a8a700fdef2dea836b67700a72617ae6a9e84a7f762d17d33d33ed7188aca3",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day3-4_GWAS/KinshipMatrix_V4SelectedSNPs-840K.csv",
+      "id": "1LpDndzaV84rz1aGARS94vp7OzwOEXtSX",
+      "folder": false,
+      "bytes": 1293638,
+      "sha256": "8152016ebbd33cfafd4d294dc57cf6fcb3a0f55da3abb8cc316310db41a31942",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day3-4_GWAS/ManhattanPlot-Basic.R",
+      "id": "19uDJFSZ8lHIYgVMA3zw_TkE2ChPwysNG",
+      "folder": false,
+      "bytes": 1515,
+      "sha256": "829e723f1597268f0a191063cc06c63d656c5bc4862c166f36ca15aea56aec3e",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day3-4_GWAS/ModelesStatsGWAS_en.pdf",
+      "id": "1RNW2lhx7o5oa5qXKekW4svXe84gZD_Yr",
+      "folder": false,
+      "bytes": 239904,
+      "sha256": "d76469fb2d1ddb4704d99b455060dc74f2bbd61024fdbb67533ace7a2f6a6240",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day3-4_GWAS/MtrPopStruct_Admixture_K8.csv",
+      "id": "1bvAm2umlwWEPFGdjfniX2SLeEIvSgSHf",
+      "folder": false,
+      "bytes": 18839,
+      "sha256": "580189f08f1eb65888f2c1914b2293c5584aa28537bec4aae1ec8260786f2776",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day3-4_GWAS/MtrPopStruct_PCA_K2.csv",
+      "id": "1C3kUJpWLp1By-wc2rDT-i28v_Tej6DMW",
+      "folder": false,
+      "bytes": 2123,
+      "sha256": "c9d4f28b8f8f16c1c88815aedaedaa73373dcf87e274f5941295c58ab56d9a7b",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day3-4_GWAS/PodCoiling_prTassel.csv",
+      "id": "1kyqI0ct6rW7TOiqyIfVb6xdtLsI02Avh",
+      "folder": false,
+      "bytes": 4050,
+      "sha256": "0b080eb3bed96a0f870094e6360bdba1af9743c91ce90288d8660a05a94a33f5",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day3-4_GWAS/TasselPipeLine_chr3-win.txt",
+      "id": "1lRz2zreQLbGL5MstNUHV6UlGKjfKlYfF",
+      "folder": false,
+      "bytes": 4386,
+      "sha256": "0b605c1b26f1a0348cfd48e9cbf0128a8a46fd7d756865c6ef9d83a59c0aa395",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Tutorials/Paradis-RforBeginners.pdf",
+      "id": "1rW_WkszLCFhVhsAE3asYf0q1QSstpnd2",
+      "folder": false,
+      "bytes": 512038,
+      "sha256": "3a70254fb513169ea02e35aed31e7149796d74801acfc254c95ca798ad37a36b",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Tutorials/Stanford.edunotesmatrix-primer-lect2.pdf",
+      "id": "1xIxWo3ovCOp8FolakQy40fiafYTGR6lY",
+      "folder": false,
+      "bytes": 55719,
+      "sha256": "dc5f60901b5b0a8f0e512c4a0280f51880f42168d83f1480b39e088d0ec1ff7b",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Tutorials/visual_statistics, Alexey Shipunov, 2018.pdf",
+      "id": "1qxFFMYX3AKODLiGE1qZBuJvrdDAElFui",
+      "folder": false,
+      "bytes": 3161794,
+      "sha256": "4d7413c89d8544de16c485c9dbe15fc2c87a0fac3e7d7005cfb1cf42017785f9",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day1_ExpDesign_RCBD_AugmentedBlocks/01_RCD_2FactorsNoInteraction/01_Exmpl1_Citrus_Modif.R",
+      "id": "1e5I61SeCHTbx4-f18MlNrQsPd1iXDi-E",
+      "folder": false,
+      "bytes": 3853,
+      "sha256": "4a9e48969053a726c13f3ec976440eabf5024845a135e83fed4ee906d17e28f1",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day1_ExpDesign_RCBD_AugmentedBlocks/01_RCD_2FactorsNoInteraction/01_Exmpl1_Citrus.csv",
+      "id": "13_Mhy_n_T8U2HiTPn90ZrHXCnd3OCcer",
+      "folder": false,
+      "bytes": 152,
+      "sha256": "f8cc7b471f5403ecc40bfe2a1d437e0267afddd3399c4e1ac77091080ebfeadd",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day1_ExpDesign_RCBD_AugmentedBlocks/02_RCBD_2FactorsWithInteraction/.Rhistory",
+      "id": "1Kq4O6478tc-ajJr0t5aodNC9LRhuQfqQ",
+      "folder": false,
+      "bytes": 26971,
+      "sha256": "5d777a09e18909c3f59127cb1b2814ae8ba5c5275b14e3f89120e56a19cba35e",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day1_ExpDesign_RCBD_AugmentedBlocks/02_RCBD_2FactorsWithInteraction/02_RCBD_SugarPloidyWatermelon.csv",
+      "id": "1OhVVGUGCVodn-kjf8QIt-zM53HGKyn8d",
+      "folder": false,
+      "bytes": 1024,
+      "sha256": "17ac3c382831cd542775dcfebf7cd6dabb135a73ac68dd56c19faaf709fdd48d",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day1_ExpDesign_RCBD_AugmentedBlocks/02_RCBD_2FactorsWithInteraction/02_RCBD_SugarPloidyWatermelon.R",
+      "id": "14p37ilL3rGxUZ2uk_hFpKSMHmNZgKHZH",
+      "folder": false,
+      "bytes": 16116,
+      "sha256": "0d5ecc25db20d1774cc8ec372c8d68be8b28bbc71b40c913c2ae80eff2814706",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day1_ExpDesign_RCBD_AugmentedBlocks/03_RCBD_ByYourself/03_RCBD_AUDPCWheatFEB.csv",
+      "id": "1rAHrtSM3N_8hJEKmNyHRKAso81S7_7d7",
+      "folder": false,
+      "bytes": 853,
+      "sha256": "2a7b8bb5a3ef348bf8561f753004dd89692c2a63a9084ab4cc961451a7fb1c1c",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day1_ExpDesign_RCBD_AugmentedBlocks/04_AugmentedBlockDesign/.Rhistory",
+      "id": "1UUXpiMChtUV8zEfV6mIX4fpYxtwmG1bc",
+      "folder": false,
+      "bytes": 14318,
+      "sha256": "a4eeb694557f976fcda3015166ee942f14912ba8ef3cc7d9cdd750e1f01cd687",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day1_ExpDesign_RCBD_AugmentedBlocks/04_AugmentedBlockDesign/04_AugmentedBlockDesign_example1.csv",
+      "id": "1TmpiDxctcCmhXuvijWfy4E4ijwFr53sG",
+      "folder": false,
+      "bytes": 357,
+      "sha256": "3da08bb91b19e26ec157a48405002e61105f04035b8c2dcea32100d02228ff37",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day1_ExpDesign_RCBD_AugmentedBlocks/04_AugmentedBlockDesign/04_AugmentedBlockDesign_example1.R",
+      "id": "1XZb1Mt_R6PS4Xf7u4f7PXdg5PqNFfS9B",
+      "folder": false,
+      "bytes": 14839,
+      "sha256": "6e938e000309b86702a8806e8c0dccb992926f24b2a388514075e14542b8e5f8",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day1_ExpDesign_RCBD_AugmentedBlocks/04_AugmentedBlockDesign/Dias_AugmentedBlockDesign.pdf",
+      "id": "1hsvxDJm7i2B4m0yK-E_EHCuyPyMvooxa",
+      "folder": false,
+      "bytes": 176689,
+      "sha256": "4f41942228a69952f79a84c30e62b93132586f28cacf4e7bfda5bc18194d9e59",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day1_ExpDesign_RCBD_AugmentedBlocks/05_AugmentedBlockDesign_ByYourself/.Rhistory",
+      "id": "13wdGy_VzbvcdyxzptZ06rQwgvlxhxgfD",
+      "folder": false,
+      "bytes": 25203,
+      "sha256": "6dd08dc524f29e32c039ab543e05628f412a080f98105ec7409ac5d0951eafb5",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day1_ExpDesign_RCBD_AugmentedBlocks/05_AugmentedBlockDesign_ByYourself/05_AugmentedBlockDesign_exemple2.csv",
+      "id": "1JoCuhcb9RO8gKvPGMoufBiHjOZhxHnmo",
+      "folder": false,
+      "bytes": 918,
+      "sha256": "055bf1cc0660132129125c032fc88199abca813251249255182600fe05efac3a",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day2_BioComp_PopStructure/01_BioComp/Dias_ShortIntroInBioinformatics.pdf",
+      "id": "1Gh3-ygz8RKrmA80wB3n3RYb1lrski3bQ",
+      "folder": false,
+      "bytes": 14541323,
+      "sha256": "3443356d0b5921a6fb074ef5f359df8b4e5be93e5f32e029d71e0d193856fa62",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day4-5_GS/Cross_Validaton_Wheat/CrossValidation_wheat_onestep_ForStudents_2018_win.R",
+      "id": "1YAj0iKAPy-eg7JLhqrzHeVe2MEpW4LKo",
+      "folder": false,
+      "bytes": 8563,
+      "sha256": "b89149eb47a32b447a10489f0fd095fb78b0648b53092347d4632b99cbc9b7cc",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day4-5_GS/Cross_Validaton_Wheat/WheatData.yield.RData",
+      "id": "1luKVhWmafs7QXtrLcqOz7rBNYcrzHEvP",
+      "folder": false,
+      "bytes": 373897,
+      "sha256": "2c2a53e35fb8e8ee21a9da948362f3d9353b70aa2946c4fc8de4b251c742b445",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day4-5_GS/Ex1_SunflowerYield/.Rhistory",
+      "id": "1-qT8eQp2yrlFK7NGDIz73YvdhhICvJEu",
+      "folder": false,
+      "bytes": 16986,
+      "sha256": "528a492d44d2e47f30fc51b7c8b44533c82ea0af7b49ee16ff475cbae968ec6e",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day4-5_GS/Ex1_SunflowerYield/GS_Session1_SunflowerWeed_ForStudent_2018.R",
+      "id": "1OC1zHSZHFm-nk2qka87LeAWnD8Jq0M6j",
+      "folder": false,
+      "bytes": 16867,
+      "sha256": "6e6b298ce5710f0f2f40599185a34ade4e62d960908c163949074a827c57d38a",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day4-5_GS/Ex1_SunflowerYield/GS_Session1_SunflowerWeed_ForTeacher.pdf",
+      "id": "1D1l-4YWDouSPKEpN6UHXVl7tH4HA2ed0",
+      "folder": false,
+      "bytes": 88846,
+      "sha256": "fa80d579727804f46ce3b96565f33ca05acce1fae4b9691772651cc2a9ad48a4",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day4-5_GS/Ex1_SunflowerYield/GS1_SunflowerWeed.csv",
+      "id": "1fKexgOuj0eh3SVP_DxAlNlZp73wWNqwH",
+      "folder": false,
+      "bytes": 369,
+      "sha256": "f6f3a453a47cee11dfa2ba687f8b9610243ea3256e25cf0bf1c2622ebc54a2db",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day4-5_GS/Ex1_SunflowerYield/MToImp.csv",
+      "id": "1Vt8yXRVn5Q9adtTO3JfakcrELkAMNU2G",
+      "folder": false,
+      "bytes": 278,
+      "sha256": "14ec6c3d6839c6e8bee67f4c6ab97419e9536c0951afa4025585b090b11b0db5",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day4-5_GS/Ex2_WheatGS_OneStep/genodata.csv",
+      "id": "1_Ed4UDDmmRXFI7Dy-UaHGdvSSJ4FagX7",
+      "folder": false,
+      "bytes": 3207331,
+      "sha256": "0a0790543d4f540011585f7d7e7823c64b30721d8d558d0e14c83493e1ef7403",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day4-5_GS/Ex2_WheatGS_OneStep/genodatatest.csv",
+      "id": "1Z6UDiITIfP94CwrIOIf3TDkp8VhO801M",
+      "folder": false,
+      "bytes": 854846,
+      "sha256": "f4853fd0f7286767dc169d25865bc390727a54509a12b6867545ef006f08626f",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day4-5_GS/Ex2_WheatGS_OneStep/genodatatrain.csv",
+      "id": "1nlhBGddhuOPDvPDfFwOji_ekBWXiGesI",
+      "folder": false,
+      "bytes": 2389731,
+      "sha256": "dba7c90e9ecbe7cff6596c0e0345839e576aa97fe714bf72406a625c2d53e2e1",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day4-5_GS/Ex2_WheatGS_OneStep/mrkMap.csv",
+      "id": "1XACpZLZgLrrQACphYy53uUCKxS8R-QWT",
+      "folder": false,
+      "bytes": 113864,
+      "sha256": "d2c88ab2edb7636d67c56f3218c42f8377454db90ecf7eaf416bb7c61f5f7505",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day4-5_GS/Ex2_WheatGS_OneStep/OneStepforWheatV3_ForStudent_Jan2018_win.R",
+      "id": "11r37UlPUmPeXUSfwbYn1wJvqMbmhXGem",
+      "folder": false,
+      "bytes": 17317,
+      "sha256": "bb6d09b882213657782d66237079ff05c11855d13fd1355647a43477b7b34330",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day4-5_GS/Ex2_WheatGS_OneStep/phenodatatest.csv",
+      "id": "13CWnxGpcYy45BVwzqAOvcOYbKWRLYz73",
+      "folder": false,
+      "bytes": 15000,
+      "sha256": "14651396152b8fb6d0de45d95e030066aa0f9cb52e804c3fd19e67171dd0b712",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day4-5_GS/Ex2_WheatGS_OneStep/phenodatatrain.csv",
+      "id": "1jgU1imafkyB-CLons58qXqToEDnFrRlZ",
+      "folder": false,
+      "bytes": 41533,
+      "sha256": "774bbd6edae998286ccef7cedd7031138da92ffacaac91454cfd520f583075df",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day2_BioComp_PopStructure/02_PopStructure/02a_PopulationGenomics/AccessionsGeography.xlsx",
+      "id": "1xobBGaqfd9JUlZs5Rwbv0XYQVXMpPi_a0_AIYot4FlI",
+      "folder": false,
+      "export": true,
+      "bytes": 10474,
+      "sha256": "28340e1f110232cbe47836d962e1635c207767fe0ffe4132790cc5feb77363b2",
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "status": "ok"
+    },
+    {
+      "path": "/Day2_BioComp_PopStructure/02_PopStructure/02a_PopulationGenomics/AccessionsGeography.csv",
+      "id": "1AYpVpLnHtCepprEfYuJEcv4zLlKKOcnP",
+      "folder": false,
+      "bytes": 9728,
+      "sha256": "9eef606e9b43fdd07529f912c2cc6dfe31b00dcd935a5fd4c2a2129bd131decf",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day2_BioComp_PopStructure/02_PopStructure/02a_PopulationGenomics/CV_sampled.csv",
+      "id": "1WFOjn0RgdEyxCpqvOYZdhfiMmuEOF10l",
+      "folder": false,
+      "bytes": 108,
+      "sha256": "0306cae530291ca415b5b7da0e5bdeb7f5c7336b022cdbf2bff256175add37de",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day2_BioComp_PopStructure/02_PopStructure/02a_PopulationGenomics/Dias_PopulationStructure_CrIntl_2018-Russia.pdf",
+      "id": "1odUccwAy8fuH-ILbQC2dCYve5pIaC-wH",
+      "folder": false,
+      "bytes": 1371369,
+      "sha256": "8c90c554d5a20cd2b181cf6f3f3a66f834a568befe6568ac7902c76d4d04595c",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day2_BioComp_PopStructure/02_PopStructure/02a_PopulationGenomics/KrAllSubset16K.map",
+      "id": "1L_Qql6f7M60TKx5wRnxpyBQ0DBWy4Epo",
+      "folder": false,
+      "bytes": 424922,
+      "sha256": "8a2416a16d10b0030d5d00d8abe4b114d8e538a78a7fb5885327276a8d5367e7",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day2_BioComp_PopStructure/02_PopStructure/02a_PopulationGenomics/KrAllSubset16K.raw",
+      "id": "1xNM6VtUWklIQ-4Ja5lqg-DLp0rBpoAv7",
+      "folder": false,
+      "bytes": 17611618,
+      "sha256": "46ed52401376d813949f6df46428815f556b5f0c7a50313af588e82d8d78a5b3",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day2_BioComp_PopStructure/02_PopStructure/02a_PopulationGenomics/KrAllSubset240K-admixture.5.Q",
+      "id": "1I4FeZaIKYE9k7zjzGgaYzGohjGZ6exOF",
+      "folder": false,
+      "bytes": 11790,
+      "sha256": "8b2e0e143b70815ce3d6fda19ab8abddd3cc6508542d1825d16bbed4714c0fba",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day2_BioComp_PopStructure/02_PopStructure/02a_PopulationGenomics/KrAllSubset240K-admixture.names",
+      "id": "1kngCLee7PRRYr026yJPvIQDzJWgCPmGV",
+      "folder": false,
+      "bytes": 3148,
+      "sha256": "5fad410a5b0ac6fbbcffcb6140ccad714c5d1f2b8a4d2d953ec78c821626186e",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day2_BioComp_PopStructure/02_PopStructure/02a_PopulationGenomics/PopulationStructure basedOnSNPs.R",
+      "id": "1Z4Ls1lauBUy4FgawdVYddc5pOl2-NQHQ",
+      "folder": false,
+      "bytes": 11819,
+      "sha256": "7f40f50df75b36f1391d4316d809cb77d997f3e702f921c2a6bf292ed9e7f39e",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day2_BioComp_PopStructure/02_PopStructure/02b_amova/amova.R",
+      "id": "1ZvS3CAWCRNxO27mrBcwC6WNT0cysqUGO",
+      "folder": false,
+      "bytes": 1886,
+      "sha256": "8bfb68512ebe8a32b91258b8b60f9334f6ace7f205e8b50c0df9176efc9eb5a6",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day2_BioComp_PopStructure/02_PopStructure/02c_SSRdatas/PlayWithSSRData.R",
+      "id": "1AxCkD11g0UyAL0jS4kJYn0Z1eU_UOdR4",
+      "folder": false,
+      "bytes": 3119,
+      "sha256": "bc7ece2e76a15b654efde3e9cb1ebfad7b60f62419ab220d8d83c9f5440aff7d",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day2_BioComp_PopStructure/02_PopStructure/02c_SSRdatas/SSRexample1.csv",
+      "id": "1uCLwqPLyxoblnSbdW-3l4UXcQpDb2kcT",
+      "folder": false,
+      "bytes": 141,
+      "sha256": "a1436c7fcf72705e505d9d7df011a74afd13ae4f81e6b2809390128244a4a43c",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    },
+    {
+      "path": "/Day2_BioComp_PopStructure/02_PopStructure/02c_SSRdatas/SSRexample2.csv",
+      "id": "1NCXE7YugmCVGFiNnbtzIAVs1g7P1jcde",
+      "folder": false,
+      "bytes": 268,
+      "sha256": "88c32a2d96818e7ddd087539f98e505203b15377dc0676914ed008a3cc9504a5",
+      "content_type": "application/octet-stream",
+      "status": "ok"
+    }
+  ]
+}
